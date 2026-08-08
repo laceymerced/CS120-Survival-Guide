@@ -56,10 +56,13 @@ This folder contains our proof that the **Mission Receipt was posted to the Disc
 - Discord Proof – Mission Receipt
 
 ### Group Final Project
-- Documents
+- All files in Docs folder
 - YouTube Playlist
-- Discord Proof – YouTube
+- Discord Proof  YouTube
+- Discord Proof  Mission Receipt (containing GitHub link proof)
+- FINAL_mISSION_RECIEPT.pdf
+- Essentially ALL folders and documents within this repo should be considered for the final project
 
 ---
 
-**Thank you for reviewing our final project! Essentially ALL folders and documents would like to be considered for the final project**
+**Thank you for reviewing our final project!**
