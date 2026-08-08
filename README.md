@@ -1,7 +1,7 @@
 # CS120 Boss Battle/Final Crasher's Sale – Grading Guide
 #Project:CS120 Boss Battle/Final Crasher's Sale
 
-This repository contains all required materials for the **Mission Receipt** and our **Group Final Project** assignments. Please use the guide below to locate the materials for grading.
+This repository contains all required materials for the **Mission Receipt** and our **Group Final Project** assignments for the **Boss Battle - Final Crasher Sale Deal**. Please use the guide below to locate the materials for grading.
 
 ---
 
