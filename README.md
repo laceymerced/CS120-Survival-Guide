@@ -39,6 +39,8 @@ The **Documents** folder contains:
 5. **Final Checklist**
 6. **YouTube Playlist Link**
 
+All of which are in .txt and .docx format for the purpose of the professor being able to choose his viewing preference. 
+
 ### Discord Proof – YouTube
 This folder contains our proof that the **YouTube playlist was posted to the Discord class chat**.
 
